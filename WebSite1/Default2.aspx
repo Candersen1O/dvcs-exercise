@@ -1,6 +1,7 @@
 ﻿<%@ Page Title="this is the new page" Language="C#" MasterPageFile="~/Site.master" AutoEventWireup="true" CodeFile="Default2.aspx.cs" Inherits="Default2" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" Runat="Server">
+    <h1>Welcome...</h1>
     <p>
         hello there. I wonder what this is going to lead to.
         ....
